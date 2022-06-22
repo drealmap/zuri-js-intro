@@ -1,0 +1,1 @@
+document.write("Name: ADEJUMO MICHAEL" + "<br>" + "Height: 179cm" + "<br>" + "Country: NIGERIA")
